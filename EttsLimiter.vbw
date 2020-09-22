@@ -1,0 +1,9 @@
+frmAbout = 22, 22, 672, 666, C, 176, 176, 826, 820, C
+cWinMinMax = 33, 198, 848, 842, C
+EL = 88, 88, 738, 732, C, 220, 220, 870, 864, C
+modMisc = 44, 44, 694, 688, C
+MSubclass = 0, 0, 0, 0, C
+MTimer = 0, 0, 0, 0, C
+ISubclass = 0, 0, 0, 0, C
+GSubclass = 0, 0, 0, 0, C
+CTimer = 0, 0, 0, 0, C
